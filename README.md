@@ -15,7 +15,7 @@ You need to create GitHub account which is great option for managing remote repo
 ### Step3 : Create a New repository
 Once you have successfully logged into Github, locate the "+" symbol situated in the upper right corner of the page. And from the options that appear, choose "new repository." It is essential to ensure that you tick the checkbox labeled "Initialize this repository with a README." Where you can store your documentation in the same repository as its corresponding product source code. 
 ### Step4 : Clone the Repository
-After creating the repository, you need to clone it to your local machine. Click on the green "Code" button and copy the URL provided. Open a terminal or command prompt on your computer, which is prefered by many people due to it's advanced funtionality and even for basic and everyday operations. And use the following command to clone the repository:"git clone <location-url>" and Replace <location-url> with the URL you copied from GitHub. 
+After creating the repository, you need to clone it to your local machine. Click on the green "Code" button and copy the URL provided. Open a terminal or command prompt on your computer, which is prefered by many people due to it's advanced funtionality and even for basic and everyday operations. And use the following command to clone the repository:"git clone location-url" and Replace location-url with the URL you copied from GitHub. 
 
 ### Step5 : [Install Jekyll]( https://rubyinstaller.org/) and Create new Jekyll Site.
 Jekyll which is most popular static site generator which can create a beautiful, functional documentation website. You need to Install it then open a command prompt and run the following command to install Jekyll: 
@@ -31,7 +31,7 @@ Once everything is changed and saved you need to add, commit your Markdown file 
 ### Step 8 : GitHub Pages
 Go to your GitHub repository's settings page, scroll down to the GitHub Pages section, and choose the branch as a "main" and save it.
 ### Step 9 : Site 
-Once GitHub Pages has finished building your site which can take some time, you can access it at https://<your-username>.github.io/<repository-name>.
+Once GitHub Pages has finished building your site which can take some time, you can access it at https://your-username.github.io/repository-name.
 
 ## Animated GIF Demo
 ![Resume Hosting and Formatting Demo](path_to_animated_gif.gif)
