@@ -17,7 +17,8 @@ Once you have successfully logged into Github, locate the "+" symbol situated in
 ### Step4 : Clone the Repository
 After creating the repository, you need to clone it to your local machine. Click on the green "Code" button and copy the URL provided. Open a terminal or command prompt on your computer, which is prefered by many people due to it's advanced funtionality and even for basic and everyday operations. And use the following command to clone the repository:
 - git clone location-url
--  Replace location-url with the URL you copied from GitHub. 
+
+ Replace location-url with the URL you copied from GitHub. 
 
 ### Step5 : [Install Jekyll]( https://rubyinstaller.org/) and Create new Jekyll Site.
 Jekyll which is most popular static site generator which can create a beautiful, functional documentation website. You need to Install it then open a command prompt and run the following command to install Jekyll: 
