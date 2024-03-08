@@ -37,7 +37,8 @@ Go to your GitHub repository's settings page, scroll down to the GitHub Pages se
 Once GitHub Pages has finished building your site which can take some time, you can access it at https://your-username.github.io/repository-name.
 
 ## Animated GIF Demo
-![](https://jmp.sh/PguWcCLs)
+![GIF Recording 2024-03-07 at 6 29 43 PM](https://github.com/NeelK1609/Resume/assets/104944136/d8f4c50e-356d-4ea2-8b2f-7941f885ca1e)
+
 
 ## More Resources
 - [Markdown Tutorial](https://www.markdowntutorial.com/)
