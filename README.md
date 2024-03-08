@@ -15,7 +15,9 @@ You need to create GitHub account which is great option for managing remote repo
 ### Step3 : Create a New repository
 Once you have successfully logged into Github, locate the "+" symbol situated in the upper right corner of the page. And from the options that appear, choose "new repository." It is essential to ensure that you tick the checkbox labeled "Initialize this repository with a README." Where you can store your documentation in the same repository as its corresponding product source code. 
 ### Step4 : Clone the Repository
-After creating the repository, you need to clone it to your local machine. Click on the green "Code" button and copy the URL provided. Open a terminal or command prompt on your computer, which is prefered by many people due to it's advanced funtionality and even for basic and everyday operations. And use the following command to clone the repository:"git clone location-url" and Replace location-url with the URL you copied from GitHub. 
+After creating the repository, you need to clone it to your local machine. Click on the green "Code" button and copy the URL provided. Open a terminal or command prompt on your computer, which is prefered by many people due to it's advanced funtionality and even for basic and everyday operations. And use the following command to clone the repository:
+- git clone location-url
+and Replace location-url with the URL you copied from GitHub. 
 
 ### Step5 : [Install Jekyll]( https://rubyinstaller.org/) and Create new Jekyll Site.
 Jekyll which is most popular static site generator which can create a beautiful, functional documentation website. You need to Install it then open a command prompt and run the following command to install Jekyll: 
