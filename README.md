@@ -49,7 +49,7 @@ Once GitHub Pages has finished building your site which can take some time, you 
 Author: Neel Kakadiya
 
 Acknowledgements:
-I would like to extend my sincere gratitude to the members of our group whose unwavering support and collaboration made this project possible. Your dedication and contributions have been invaluable throughout every stage of the process. Additionally, I want to acknowledge the creators of the Jekyll theme utilized in the design of this project
+I would like to extend my sincere gratitude to the members of our group whose unwavering support and collaboration made this project possible. Your dedication and contributions have been invaluable throughout every stage of the process. Additionally, I want to acknowledge the creators of the Jekyll theme utilized in the design of this project.
 
 ## FAQs
 ### Q: Why is Markdown better than a word processor?
