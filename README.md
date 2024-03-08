@@ -3,7 +3,7 @@
 ## Purpose
 This README provides practical steps on how to host and format your resume using GitHub Pages. It also relates these steps to the general principles of current Technical Writing as explained in Andrew Etter's book "Modern Technical Writing".
 
-# Prerequisites
+## Prerequisites
 Using lightweight markup simplifies the process of creating well-formed XML, which is necessary for constructing websites. Before proceeding with the instructions in this README, ensure that your resume is formatted in Markdown, the most widely used lightweight markup language known for its clean syntax. GitHub Flavored Markdown, a favored option for straightforward web-based help systems, is particularly suitable due to its compatibility with GitHub Pages.
 
 ## Instructions
