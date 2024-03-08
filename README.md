@@ -25,7 +25,7 @@ Jekyll which is most popular static site generator which can create a beautiful,
 You can spare some time to Customize the theme with changing colors,typefaces and many more.You can modify the '_config.yml' to configure site settings.Doing this will you will chance to differentiate your content from the thousands of ugly,disorganized sites of the world, so don't just use the default theme. If you don't have the skills to do this customization yourself, you might need to hire someone. 
 ### Step 7 : Push Commands 
 Once everything is changed and saved you need to add, commit your Markdown file and push them to your Github repository using following commands step by step.
-- git add . -
+- git add . 
 - git commit -m "Initial commit" 
 - git push origin main 
 ### Step 8 : GitHub Pages
